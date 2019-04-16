@@ -1,0 +1,9 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.click_me{
+    width:200px;
+    height:200px;
+    background:red;
+}
